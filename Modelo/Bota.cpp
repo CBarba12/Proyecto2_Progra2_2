@@ -4,6 +4,10 @@
 
 #include "Bota.h"
 
+
+//hola
+
+
 Bota::Bota(double precio, const string &color, const string &codigo, bool alta) : Zapato(precio, color, codigo),
                                                                                   alta(alta) {}
 
