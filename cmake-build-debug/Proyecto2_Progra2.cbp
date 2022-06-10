@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Proyecto2_Progra2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto2_Progra2">
+				<Option output="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Proyecto2_Progra2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto2_Progra2"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto2_Progra2/fast">
+				<Option output="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Proyecto2_Progra2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto2_Progra2/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Controlador/Archivos.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Controlador/Archivos.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Controlador/Controlador.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Controlador/Controlador.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Bota.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Bota.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Camisa.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Camisa.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Camiseta.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Camiseta.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/CatalogoEnLinea.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/CatalogoEnLinea.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Cliente.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Cliente.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/ConCuadros.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/ConCuadros.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/DeVestir.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/DeVestir.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Ejecutivo.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Ejecutivo.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Empresa.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Empresa.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Jeams.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Jeams.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/ListaCliente.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/ListaCliente.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/MangaLarga.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/MangaLarga.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/NodoCatalogo.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/NodoCatalogo.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/NodoCliente.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/NodoCliente.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Observable.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Observable.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Observer.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Observer.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Pantalon.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Pantalon.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Pantaloneta.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Pantaloneta.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Persona.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Persona.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/PrecioTranslado.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/PrecioTranslado.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/PreciosTienda.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/PreciosTienda.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Tenni.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Tenni.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Traje.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Traje.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeDeportivo.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeDeportivo.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeEjecutivo.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeEjecutivo.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeTrabajo.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/TrajeTrabajo.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Utiles.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Venta.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Venta.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Zapato.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Modelo/Zapato.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Vista/Excepciones.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Vista/Excepciones.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Vista/Interfaz.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/Vista/Interfaz.h">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/main.cpp">
+			<Option target="Proyecto2_Progra2"/>
+		</Unit>
+		<Unit filename="C:/Users/alexb/Documents/Github/Proyecto2_Progra2_2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
